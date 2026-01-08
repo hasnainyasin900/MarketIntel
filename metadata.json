@@ -1,0 +1,9 @@
+{
+  "name": "MarketIntel AI Pro - Product & Marketing Suite",
+  "description": "A world-class product intelligence and growth marketing dashboard powered by the Gemini 3 and 2.5 series. Features deep market analysis, Meta ads strategy, SEO optimization, and AI-driven image editing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
